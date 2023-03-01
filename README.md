@@ -1,4 +1,4 @@
-# SCVI_Extract_CN
+# 宝可梦朱紫data.trpfd & data.trpfs解包脚本
 Extract Pokemon Scarlet &amp; Violet Required Script<br>
 解包宝可梦朱紫所需脚本
 
